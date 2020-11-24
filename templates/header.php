@@ -26,11 +26,11 @@
   </style>
 </head>
 <body class="grey lighten-4">
-	<nav class="white z-depth-0">
+	<nav class="white">
     <div class="container">
-      <a href="index.php" class="brand-logo brand-text">Cake Zone</a>
-      <ul id="nav-mobile" class="right hide-on-small-and-down">
-        <li><a href="add.php" class="btn brand z-depth-0">Add a Cake</a></li>
+      <a href="index.php" class="brand-logo brand-text center">Cake Zone</a>
+      <ul id="nav-mobile" class="right">
+        <li><a href="add.php" class="btn brand">Add a Cake</a></li>
       </ul>
     </div>
   </nav>

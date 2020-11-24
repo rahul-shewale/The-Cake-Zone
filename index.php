@@ -61,18 +61,13 @@
 
 
 <!-- ---------------index.php---------------
-
 <!DOCTYPE html>
 <html>
-
 <?php
-
 // include('templates/header.php');
 // include('templates/footer.php');
-
 ?>
 </html>
-
 ------------------templates/header.php---------------------
 <head>
 <title>Cake Zone</title>
